@@ -1,6 +1,6 @@
 # AirB&B clon practice
 
-[link-to-netlify-or-heroku](http://google.com)
+[link to preview](https://mattkaizer.github.io/airbnb-clon/.)
 
 ### Simple Portfolio web
 
